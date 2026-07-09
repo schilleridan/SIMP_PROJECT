@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.6.11819.183 stable
+VisualStudioVersion = 18.6.11819.183
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assembler", "assembler.vcxproj", "{2B4DC68A-1314-4572-AD9F-D0A466F28F45}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asm", "assembler.vcxproj", "{2B4DC68A-1314-4572-AD9F-D0A466F28F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

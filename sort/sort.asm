@@ -30,3 +30,5 @@ beq  $imm1, $zero, $zero, outer_loop, 0  # unconditional jump back to outer loop
 
 done:
 halt $zero, $zero, $zero, 0, 0           # finish running the program
+
+.array 0x100 13, 2, 99, 7, 55, 42, 17, 17, 5, 88, 1, 64, 23, 9, 100, 31
