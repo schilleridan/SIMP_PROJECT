@@ -63,6 +63,6 @@ gcc -o sim simulator.c
 # 2. Run simulator
 ./sim memin.txt diskin.txt irq2in.txt memout.txt regout.txt trace.txt hwregtrace.txt cycles.txt leds.txt display7seg.txt diskout.txt monitor.txt monitor.yuv
 
-## Author
+### Authors
 Idan Schiller, Ido Ben David, Nir Arazi
-LinkedIn Profile | GitHub
+
